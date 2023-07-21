@@ -14,7 +14,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: Jekyll Help1
       folderitems:
         - title: Jekyll Talk
           external_url: https://talk.jekyllrb.com
