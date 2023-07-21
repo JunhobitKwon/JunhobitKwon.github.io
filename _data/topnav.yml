@@ -39,10 +39,10 @@ topnav_dropdowns:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
         - title: Test 1
-          url: /p1_landing_page.html
+          url: /Test 1
         - title: Test 2
-          url: /p2_landing_page.html
+          url: /Test 2
         - title: Test 3
-          url: /p2_landing_page.html
+          url: /Test 3
 
 # Copyright 2021 Google LLC
