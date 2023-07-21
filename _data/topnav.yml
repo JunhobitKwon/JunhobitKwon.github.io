@@ -8,13 +8,13 @@ topnav:
     - title: News
       url: /news
     - title: Dog
-      url: /	ai
+      url: /	dog
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help1
+    - title: Jekyll Help
       folderitems:
         - title: Jekyll Talk
           external_url: https://talk.jekyllrb.com
